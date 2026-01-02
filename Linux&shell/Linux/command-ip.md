@@ -122,3 +122,6 @@ ip tunnel del gre1            # 删除 GRE 隧道 gre1
 ```
 
 
+devlink dev show
+
+
